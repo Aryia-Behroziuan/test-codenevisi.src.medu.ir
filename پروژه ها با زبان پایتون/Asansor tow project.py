@@ -25,3 +25,11 @@ print('Response------------------------------------')
 print()
 print('Miley classes:', floor)
 print('How much time is spent:', math)
+
+
+
+
+## time sleep for view response
+time.sleep(10)
+
+
